@@ -1,4 +1,4 @@
-const DESTINO = "https://ixbgv.ttrk.io/6a71eb5458d36ad955201f3d";
+const DESTINO = "https://jardineiro.net";
 
 const btnMaior = document.getElementById("maior");
 const btnMenor = document.getElementById("menor");
